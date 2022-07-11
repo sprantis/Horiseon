@@ -5,12 +5,12 @@ Deployed Link:
  [https://sprantis.github.io/Horiseon/]
 
 Description:
-I have refractored the code for the Horiseon Homepage that are following accessiblity standards.
+I have refractored the code for the Horiseon company homepage. It now follows accessiblity standards.
 
-screenshot:
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+Screenshot:
+![Horiseon Screenshot](.assets/images/horiseon-screenshot.png)
 
-Repo Link:
+Repo Link: [https://github.com/sprantis/Horiseon]
 
 
 
