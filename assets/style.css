@@ -32,7 +32,7 @@ body {
     font-size: 20px;
     /* vvv had to add below styling to adjust for strange behavior on page vvv */
     position: relative;
-    bottom: 57px;
+    bottom: 55px;
 }
 
 .header nav ul {
